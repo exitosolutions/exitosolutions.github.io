@@ -1,2 +1,2 @@
-# exitosol.github.io
+# exitosolutions.github.io
 Exito Labs website
